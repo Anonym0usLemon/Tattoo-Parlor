@@ -32,22 +32,22 @@ const App = () => {
    <div>
      <Header /> 
      <Routes>
-      <Route exact path="/" element={<Home />} /> 
-      <Route exact path="admin" element={<Admin />} />
-       <Route path="/edit/:id" element={<Edit />} />
-       <Route path="/create" element={<Create />} />
-       <Route path="/about" element={<About />} /> 
-       <Route path="*" element={<NoPage />} /> 
-       <Route path="/tattooartists" element={<TattooArtists />} /> 
-       <Route path="/Kyle" element={<Kyle />} /> 
-       <Route path="/Bailey" element={<Bailey />} /> 
-       <Route path="/Jenn" element={<Jenn />} /> 
-       <Route path="/Matt" element={<Matt />} /> 
-       <Route path="/Melyssa" element={<Melyssa />} /> 
-       <Route path="/FAQ" element={<FAQ />} /> 
-       <Route path="/OurWork" element={<OurWork />} /> 
-       <Route path="/TattooRemoval" element={<TattooRemoval />} />
-       <Route path="/Piercings" element={<Piercings/>} />
+      <Route path="/" element={<Home />} /> 
+      <Route path="admin" element={<Admin />} />
+      <Route path="/edit/:id" element={<Edit />} />
+      <Route path="/create" element={<Create />} />
+      <Route path="/about" element={<About />} /> 
+      <Route path="*" element={<NoPage />} /> 
+      <Route path="/tattooartists" element={<TattooArtists />} /> 
+      <Route path="/Kyle" element={<Kyle />} /> 
+      <Route path="/Bailey" element={<Bailey />} /> 
+      <Route path="/Jenn" element={<Jenn />} /> 
+      <Route path="/Matt" element={<Matt />} /> 
+      <Route path="/Melyssa" element={<Melyssa />} /> 
+      <Route path="/FAQ" element={<FAQ />} /> 
+      <Route path="/OurWork" element={<OurWork />} /> 
+      <Route path="/TattooRemoval" element={<TattooRemoval />} />
+      <Route path="/Piercings" element={<Piercings/>} />
      </Routes>
      <Footer />
    </div>
