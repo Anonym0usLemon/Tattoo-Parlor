@@ -4,40 +4,40 @@ const TattooArtists = () => {
     return (
     <>
         <div className="secondary-banner">
-                <img className="tattoo-art-background" src="/images/TattooArtists/background.png" alt=""/>
+                <img className="tattoo-art-background" src="./Tattoo-Parlor---Frontend/images/TattooArtists/background.png" alt=""/>
             </div>
         
         <section className="tattoo-artists-page">    
             <h1>
                 Waukesha
                 <span>
-                    <img src="/images/TattooArtists/title-left.png" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/title-left.png" alt=""/>
                     Tattoo Artists
-                    <img src="/images/TattooArtists/title-right.png" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/title-right.png" alt=""/>
                 </span>
             </h1>
 
             <div className="tattoo-art-artists">
                 <Link to="/Kyle" className="tattoo-art-item">
-                    <img src="/images/TattooArtists/Kyle.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/Kyle.jpg" alt=""/>
 
                     <p>Kyle Baxter<span>Traditional Style</span></p>
                 </Link>
 
                 <Link to="/Bailey" className="tattoo-art-item">
-                    <img src="/images/TattooArtists/Bailey.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/Bailey.jpg" alt=""/>
 
                     <p>Bailey Renee<span>Geometric, Fine line Style</span></p>
                 </Link>
 
                 <Link to="/Jenn" className="tattoo-art-item">
-                    <img src="/images/TattooArtists/Jenn.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/Jenn.jpg" alt=""/>
 
                     <p>Jenn Schafer<span>Blackwork, Realism Style</span></p>
                 </Link>
 
                 <Link to="/Matt"  className="tattoo-art-item">
-                    <img src="/images/TattooArtists/Matt.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/TattooArtists/Matt.jpg" alt=""/>
 
                     <p>Matt Krstic<span>Neo Traditional Style</span></p>
                 </Link>
@@ -45,8 +45,8 @@ const TattooArtists = () => {
 
             <div className="tattoo-art-contact">
                 <picture>
-                    <source media="(max-width:500px)" srcset="/images/TattooArtists/contact-us-mobile-background.png"/>
-                    <img className="contact-background" src="/images/TattooArtists/contact-us-background.png" alt=""/>
+                    <source media="(max-width:500px)" srcset="./Tattoo-Parlor---Frontend/images/TattooArtists/contact-us-mobile-background.png"/>
+                    <img className="contact-background" src="./Tattoo-Parlor---Frontend/images/TattooArtists/contact-us-background.png" alt=""/>
                 </picture>
 
                 <div className='text padding-inline'>

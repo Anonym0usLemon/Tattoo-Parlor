@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footer-container">
                 <div className="logo-container">
                     <Link className="footer-logo-link" to="/" target="_blank">
-                        <img className="footer-logo" src="/images/Footer/footer-logo.png" alt=""/>
+                        <img className="footer-logo" src="./Tattoo-Parlor---Frontend/images/Footer/footer-logo.png" alt=""/>
                     </Link>
 
                     <div className="contact-info">
@@ -66,10 +66,10 @@ const Footer = () => {
                 </div>
             </div>
             <div class="social-media-links">
-                <a href="#"><img className="facebook" alt="" src="/images/Footer/facebook.png"/></a>
-                <a href="#"><img className="insta" alt="" src="/images/Footer/instagram.png"/></a>
-                <a href="#"><img className="twitter" alt="" src="/images/Footer/twitter.png"/></a>
-                <a href="#"><img className="tiktok" alt="" src="/images/Footer/tiktok.png"/></a>
+                <a href="#"><img className="facebook" alt="" src="./Tattoo-Parlor---Frontend/images/Footer/facebook.png"/></a>
+                <a href="#"><img className="insta" alt="" src="./Tattoo-Parlor---Frontend/images/Footer/instagram.png"/></a>
+                <a href="#"><img className="twitter" alt="" src="./Tattoo-Parlor---Frontend/images/Footer/twitter.png"/></a>
+                <a href="#"><img className="tiktok" alt="" src="./Tattoo-Parlor---Frontend/images/Footer/tiktok.png"/></a>
             </div>
         </footer>
 

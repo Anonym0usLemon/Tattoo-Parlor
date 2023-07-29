@@ -5,7 +5,7 @@ const About = () => {
     return (
         <section className="about-page-section">
 		<div className="secondary-banner">	
-			<img className="about-background" src="/images/About/background.jpg" alt=""/>
+			<img className="about-background" src="./Tattoo-Parlor---Frontend/images/About/background.jpg" alt=""/>
 		</div>
 
 		<div className="about-page-content">
@@ -21,42 +21,42 @@ const About = () => {
             </p>
             
             <Link class="schedule-apt-button" to="/create"> 
-                <img src="/images/About/schedule-apt-left-btn.png" border="0" alt="" /> 
+                <img src="./Tattoo-Parlor---Frontend/images/About/schedule-apt-left-btn.png" border="0" alt="" /> 
                 SCHEDULE APPOINTMENT 
-                <img src="/images/About/schedule-apt-right-btn.png" border="0" alt="" /> 
+                <img src="./Tattoo-Parlor---Frontend/images/About/schedule-apt-right-btn.png" border="0" alt="" /> 
 			</Link>
         </div>
 			<div> 
-				<img className="tattoo-room-jpg" src="/images/About/tattoo-room.jpg" alt=""/>
+				<img className="tattoo-room-jpg" src="./Tattoo-Parlor---Frontend/images/About/tattoo-room.jpg" alt=""/>
 			</div>
 		</div>
 
 		<div className="about-award-banner padding-inline">
 			<div className="about-award-col1">
 				<div>
-					<img src="/images/About/award1.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award1.png" alt=""/>
 				</div>
 
 				<div>
-					<img src="/images/About/award2.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award2.png" alt=""/>
 				</div>
 
 				<div>
-					<img src="/images/About/award3.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award3.png" alt=""/>
 				</div>
 			</div>
 
 			<div className="about-award-col2">
 				<div>
-					<img src="/images/About/award4.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award4.png" alt=""/>
 				</div>
 
 				<div>
-					<img src="/images/About/award5.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award5.png" alt=""/>
 				</div>
 
 				<div>
-					<img src="/images/About/award6.png" alt=""/>
+					<img src="./Tattoo-Parlor---Frontend/images/About/award6.png" alt=""/>
 				</div>
 			</div>
 		</div>

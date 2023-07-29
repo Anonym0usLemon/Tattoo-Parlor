@@ -3,14 +3,14 @@ import { Link } from 'react-router-dom';
 const Piercings = () => {
     return (
             <section class="piercings-page-section">
-                <img src="/images/Piercings/piercings-background.jpg" alt=""/>
+                <img src="./Tattoo-Parlor---Frontend/images/Piercings/piercings-background.jpg" alt=""/>
 
                 <div class="peircings-page-title">
                     <h1>WAUKESHA<br/>
                         <span>
-                            <img src="/images/Piercings/title-left.png" alt=""/>    
+                            <img src="./Tattoo-Parlor---Frontend/images/Piercings/title-left.png" alt=""/>    
                             <span>BODY PIERCING</span>
-                            <img src="/images/Piercings/title-right.png" alt=""/>
+                            <img src="./Tattoo-Parlor---Frontend/images/Piercings/title-right.png" alt=""/>
                         </span>
                     </h1>
                 
@@ -26,15 +26,15 @@ const Piercings = () => {
 
                 <div class="piercing-page-price-section padding-inline">
 
-                    <img className="piercings-price-background" src="/images/Piercings/piercings-price-background.png" alt="" /> 
+                    <img className="piercings-price-background" src="./Tattoo-Parlor---Frontend/images/Piercings/piercings-price-background.png" alt="" /> 
 
                     <div class="piercing-price-content">
                         <div class="price-text">
                             <div class="piercings-page-price-title">
                                 <span>
-                                    <img src="/images/Piercings/title-left.png" alt=""/>
+                                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/title-left.png" alt=""/>
                                     <h2>PRICING</h2>
-                                    <img src="/images/Piercings/title-right.png" alt=""/>
+                                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/title-right.png" alt=""/>
                                 </span>
                                 <p>** Pricing is for a single piercing. For one piercing on each earlobe would start at $150 **</p>
                             </div>
@@ -90,7 +90,7 @@ const Piercings = () => {
                     
 
                         <div class="piercings-page-artist">
-                            <img class="piercing-page-artists-image" src="/images/Piercings/Melyssa.jpg" alt=""/>
+                            <img class="piercing-page-artists-image" src="./Tattoo-Parlor---Frontend/images/Piercings/Melyssa.jpg" alt=""/>
 
                             <h2>
                                 Melyssa Marsh <br/> 
@@ -101,14 +101,14 @@ const Piercings = () => {
                 </div>
 
                 <div class="piercings-page-gallery">
-                    <img src="/images/Piercings/gallery1.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery2.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery3.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery4.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery5.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery6.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery7.jpg" alt=""/>
-                    <img src="/images/Piercings/gallery8.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery1.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery2.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery3.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery4.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery5.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery6.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery7.jpg" alt=""/>
+                    <img src="./Tattoo-Parlor---Frontend/images/Piercings/gallery8.jpg" alt=""/>
                 </div> 
         
             </section>

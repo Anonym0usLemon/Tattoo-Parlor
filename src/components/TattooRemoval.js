@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const TattooRemoval = () => {
     return (
         <section className="removal-page-section">
-            <img className="removal-background" src="/images/TattooRemoval/header-background.jpg" alt=""/>
+            <img className="removal-background" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/header-background.jpg" alt=""/>
 
 
             <div className="removal-main-content">
@@ -25,23 +25,23 @@ const TattooRemoval = () => {
                     </p>
 
                     <Link className="schedule-apt-btn" to="/create">
-                        <img src="/images/TattooRemoval/schedule-apt-left-btn.png" alt=""/>
+                        <img src="./Tattoo-Parlor---Frontend/images/TattooRemoval/schedule-apt-left-btn.png" alt=""/>
                         SCHEDULE AN APPOINTMENT
-                        <img src="/images/TattooRemoval/schedule-apt-right-btn.png" alt=""/>
+                        <img src="./Tattoo-Parlor---Frontend/images/TattooRemoval/schedule-apt-right-btn.png" alt=""/>
                     </Link>
                 </div>
 
-                <img className="removal-pic" src="/images/TattooRemoval/removal-pic.jpg" alt=""/>
+                <img className="removal-pic" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/removal-pic.jpg" alt=""/>
 
                 <div className="mobile-removal">
-                    <img className="removal-before" src="/images/TattooRemoval/before-removal-pic.jpg" alt=""/>
-                    <img className="removal-after" src="/images/TattooRemoval/after-removal-pic.jpg" alt=""/>
+                    <img className="removal-before" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/before-removal-pic.jpg" alt=""/>
+                    <img className="removal-after" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/after-removal-pic.jpg" alt=""/>
                 </div>
             </div>
 
             <div className="removal-section2">
 
-                <img className="paper-background" src="/images/TattooRemoval/section2-background.png" alt="" />
+                <img className="paper-background" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/section2-background.png" alt="" />
 
                 <div className="rem-section2-text padding-inline">
                     <h2>OUR TECHNOLOGY</h2>
@@ -63,7 +63,7 @@ const TattooRemoval = () => {
                     </p>
                 </div>
 
-                <img className="laser" src="/images/TattooRemoval/laser.png" alt=""/>
+                <img className="laser" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/laser.png" alt=""/>
             </div>
 
             <div className="removal-section3">

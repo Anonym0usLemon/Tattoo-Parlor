@@ -48,7 +48,7 @@ export default function Create() {
         <section className="contact-page">
           
           <div className="secondary-banner">
-            <img src="/images/Contact/background.jpg" alt="" /> 
+            <img src="./Tattoo-Parlor---Frontend/images/Contact/background.jpg" alt="" /> 
             <div className="paper-gradient"></div>
           </div>
 
@@ -56,7 +56,7 @@ export default function Create() {
 
             <div className="contact-form-section">
               <picture>
-                <img className="contact-section1-background" src="/images/Contact/desktop-section.png" />
+                <img className="contact-section1-background" src="./Tattoo-Parlor---Frontend/images/Contact/desktop-section.png" />
               </picture>
 
               <div className="contact-form padding-inline">
@@ -104,9 +104,9 @@ export default function Create() {
 
                   <div class="button-container">
                     <button class="submit schedule-apt-button" type="submit">
-                      <img src="/images/Contact/btn-left.png" alt=""/> 
+                      <img src="./Tattoo-Parlor---Frontend/images/Contact/btn-left.png" alt=""/> 
                       Send 
-                      <img src="/images/Contact/btn-right.png" alt=""/>
+                      <img src="./Tattoo-Parlor---Frontend/images/Contact/btn-right.png" alt=""/>
                     </button>
                   </div>
 
@@ -119,7 +119,7 @@ export default function Create() {
                 <h3>Our Hours</h3>
                 <a class="address" href="https://goo.gl/maps/NdhzhcsqTSQry8QT8" target="_blank">1430 E Moreland Blvd, Waukesha, WI</a>
                 <div class="phone-number active">
-                  <div class="desktop-phone active"><img class="desktop-phone" src="/images/Home/phone-icon.png" alt="" border="0"/></div>
+                  <div class="desktop-phone active"><img class="desktop-phone" src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt="" border="0"/></div>
                   <p class="phone-number active">262.574.9400</p>
                 </div>
                 <div class="contact-hours">

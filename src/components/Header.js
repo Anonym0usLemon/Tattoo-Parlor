@@ -4,8 +4,8 @@ const Header = () => {
     return (
         <>
         <header className="padding-inline">
-            <Link to="/create" className="js-phoneswap js-tel"><img className="phone" src="images/Home/phone-icon.png" alt=""/></Link>
-            <Link to="/"><img className="logo" src="images/Nav/logo.png" alt=""/></Link>
+            <Link to="/create" className="js-phoneswap js-tel"><img className="phone" src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt=""/></Link>
+            <Link to="/"><img className="logo" src="./Tattoo-Parlor---Frontend/images/Nav/logo.png" alt=""/></Link>
             <input type="checkbox" id="hamburger"/> 
 
                 <nav>
@@ -13,7 +13,7 @@ const Header = () => {
                         <li className="has-dropdown">
                             <Link className="parent-link" to="/TattooArtists">
                                 TATTOO ARTISTS
-                                <img className="desktop-chevron" src="images/Home/chevron-down.png" alt=""/>
+                                <img className="desktop-chevron" src="./Tattoo-Parlor---Frontend/images/Home/chevron-down.png" alt=""/>
                             </Link>
 
                             {/* Mobile Plus Sign */}
@@ -37,7 +37,7 @@ const Header = () => {
                         <li className="has-dropdown">
                             <Link className="parent-link" to="/about">
                                 ABOUT SHOP
-                                <img className="desktop-chevron" src="/images/Home/chevron-down.png" alt=""/>
+                                <img className="desktop-chevron" src="./Tattoo-Parlor---Frontend/images/Home/chevron-down.png" alt=""/>
                             </Link>
 
                             {/*Mobile Plus Sign*/}
@@ -63,7 +63,7 @@ const Header = () => {
                                 <Link className="js-tel js-phoneswap" to="/create">
                                     <div className="phone-number">
                                         <div className="desktop-phone">
-                                            <img className="desktop-phone" src="images/Home/phone-icon.png" alt=""/>
+                                            <img className="desktop-phone" src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt=""/>
                                             <p className="phone-number">262.574.9400</p>
                                         </div>
                                     </div>

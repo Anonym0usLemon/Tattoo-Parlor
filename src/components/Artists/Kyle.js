@@ -6,13 +6,13 @@ const Kyle = () => {
     return (
         <>
             <div className="secondary-banner">	
-                <img className="about-background" src="/images/Piercings/piercings-background.jpg" alt=""/>
+                <img className="about-background" src="./Tattoo-Parlor---Frontend/images/Piercings/piercings-background.jpg" alt=""/>
             </div>
 
             <section className='Bio padding-inline'>
             <Link className="mobile-crumb" to="/TattooArtists"> &lt; Back to Artists</Link>
 
-                <img className='artist-image' src="images/TattooArtists/Kyle.jpg" alt=""/>
+                <img className='artist-image' src="./Tattoo-Parlor---Frontend/images/TattooArtists/Kyle.jpg" alt=""/>
 
                 <div className='text'>
                     <Link className="desktop-crumb" to="/TattooArtists"> &lt; Back to Artists</Link>
@@ -35,9 +35,9 @@ const Kyle = () => {
                     </p>
 
                     <Link className="schedule-apt-button" to="/create">
-                        <img src="/images/Home/schedule-apt-left-btn.png" alt="" />    
+                        <img src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-left-btn.png" alt="" />    
                         Schedule Appointment
-                        <img src="/images/Home/schedule-apt-right-btn.png" alt="" />
+                        <img src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-right-btn.png" alt="" />
                     </Link>
                 </div>
             </section>
