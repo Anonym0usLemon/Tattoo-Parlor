@@ -5,7 +5,7 @@ const Header = () => {
         <>
         <header className="padding-inline">
             <Link to="/create" className="js-phoneswap js-tel"><img className="phone" src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt=""/></Link>
-            <Link to="/"><img className="logo" src="./Tattoo-Parlor---Frontend/images/Nav/logo.png" alt=""/></Link>
+            <Link to="/"><img className="logo" src={process.env.PUBLIC_URL + "/images/Nav/logo.png"} alt=""/></Link>
             <input type="checkbox" id="hamburger"/> 
 
                 <nav>
