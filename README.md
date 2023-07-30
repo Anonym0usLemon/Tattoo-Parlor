@@ -4,6 +4,7 @@ This is a fully featured website with over 18 pages. Designed by iNET Web and de
 
 ### Hosted Here: https://anonym0uslemon.github.io/Tattoo-Parlor---Frontend/
 
+
 ## Technologies Used
 
 + React.js
