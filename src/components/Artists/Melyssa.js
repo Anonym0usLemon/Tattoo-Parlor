@@ -9,12 +9,12 @@ const Melyssa = () => {
 		</div>
 
         <section className='Bio padding-inline'>
-        <Link className="mobile-crumb" to=""> &lt; Back to Piercings</Link>
+        <Link className="mobile-crumb" to="/Piercings"> &lt; Back to Piercings</Link>
 
             <img className='artist-image' src="./Tattoo-Parlor---Frontend/images/Piercings/Melyssa.jpg" alt=""/>
 
             <div className='text'>
-                <Link className="desktop-crumb" to=""> &lt; Back to Piercings</Link>
+                <Link className="desktop-crumb" to="/Piercings"> &lt; Back to Piercings</Link>
 
                 <h1>
                     Melyssa Marsh

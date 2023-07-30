@@ -7,7 +7,6 @@ import { Route, Routes } from "react-router-dom";
 import "./App.scss";
 
 // import all the components we need in our app
-import Navbar from "./components/navbar";
 import Admin from "./components/recordList";
 import Edit from "./components/edit";
 import Create from "./components/create";

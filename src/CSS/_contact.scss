@@ -184,11 +184,10 @@ $Oswald: 'Oswald';
 
             .phone-number {
                 position: relative; 
-                top: -5px;
 
                 .desktop-phone {
                     position: relative;
-                    top: -2px;
+                    display: flex;
                 }
             }
 

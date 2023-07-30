@@ -118,9 +118,11 @@ export default function Create() {
               <div class="contact-hours-box">
                 <h3>Our Hours</h3>
                 <a class="address" href="https://goo.gl/maps/NdhzhcsqTSQry8QT8" target="_blank">1430 E Moreland Blvd, Waukesha, WI</a>
-                <div class="phone-number active">
-                  <div class="desktop-phone active"><img class="desktop-phone" src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt="" border="0"/></div>
-                  <p class="phone-number active">262.574.9400</p>
+                <div class="phone-number">
+                  <div className="desktop-phone">
+                    <img src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt="" border="0"/>
+                  </div>
+                    <p class="phone-number">262.574.9400</p>
                 </div>
                 <div class="contact-hours">
                   <div class="weekdays"><span>Sunday:</span> <span>Monday:</span> <span>Tuesday:</span> <span>Wednesday:</span> <span>Thursday:</span> <span>Friday:</span> <span>Saturday:</span></div>
