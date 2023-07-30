@@ -1,6 +1,6 @@
 # Tattoo Parlor Project
 
-This is a fully featured website with over 18 pages. Designed by iNET Web and developed by me. I was given a photoshop mockup and was tasked with coding it from scratch.
+This is a fully featured website with over 18 pages. Designed by iNET Web and developed by me. I was given a photoshop mockup and was tasked with coding it from scratch. It was my first project that I completed within my first 30 days at iNET and I used the .NET framework originally. But later redid the project in React. 
 
 ## Technologies Used
 
