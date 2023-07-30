@@ -6,7 +6,7 @@ const Footer = () => {
 
             <div className="footer-container">
                 <div className="logo-container">
-                    <Link className="footer-logo-link" to="/Tattoo-Parlor---Frontend" target="_blank">
+                    <Link className="footer-logo-link" to="/Tattoo-Parlor---Frontend">
                         <img className="footer-logo" src={process.env.PUBLIC_URL + "/images/Footer/footer-logo.png"} alt=""/>
                     </Link>
 

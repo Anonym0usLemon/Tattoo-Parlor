@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tattoo-Parlor---Frontend/static/css/main.5fb059fb.css",
-    "main.js": "/Tattoo-Parlor---Frontend/static/js/main.04d7847c.js",
+    "main.css": "/Tattoo-Parlor---Frontend/static/css/main.02b7e7d6.css",
+    "main.js": "/Tattoo-Parlor---Frontend/static/js/main.857be17d.js",
     "static/media/jewelry-background-desktop.jpg": "/Tattoo-Parlor---Frontend/static/media/jewelry-background-desktop.18bed551112c83f5ccb2.jpg",
     "static/media/tattoo-removal-desktop.jpg": "/Tattoo-Parlor---Frontend/static/media/tattoo-removal-desktop.51ed37d1ad25664b3375.jpg",
     "static/media/Oswald-SemiBold.svg": "/Tattoo-Parlor---Frontend/static/media/Oswald-SemiBold.2c11f19149eecc82bc5c.svg",
@@ -9,6 +9,7 @@
     "static/media/jewelry-background.jpg": "/Tattoo-Parlor---Frontend/static/media/jewelry-background.d9a2ef800f918914b5e1.jpg",
     "static/media/our-work-background-mobile.jpg": "/Tattoo-Parlor---Frontend/static/media/our-work-background-mobile.1ff5798ca0927e0bd25a.jpg",
     "static/media/our-work-background-1500px.jpg": "/Tattoo-Parlor---Frontend/static/media/our-work-background-1500px.a67fe77db59ce2c3e844.jpg",
+    "static/media/filter-background.jpg": "/Tattoo-Parlor---Frontend/static/media/filter-background.6dd3e20ec54eed7307a5.jpg",
     "static/media/background-overlay2.png": "/Tattoo-Parlor---Frontend/static/media/background-overlay2.54c0e71b8c9326f6e077.png",
     "static/media/background-overlay.png": "/Tattoo-Parlor---Frontend/static/media/background-overlay.5ab2e774498c2b54ec61.png",
     "static/media/Oswald-SemiBold.eot": "/Tattoo-Parlor---Frontend/static/media/Oswald-SemiBold.64b878ef1a11522fbec5.eot",
@@ -20,11 +21,11 @@
     "static/media/Oswald-SemiBold.woff2": "/Tattoo-Parlor---Frontend/static/media/Oswald-SemiBold.e8d4c39b6dbe90952829.woff2",
     "static/media/merriweather-regular.woff2": "/Tattoo-Parlor---Frontend/static/media/merriweather-regular.cf3b0c8fd0dd4845e0d6.woff2",
     "index.html": "/Tattoo-Parlor---Frontend/index.html",
-    "main.5fb059fb.css.map": "/Tattoo-Parlor---Frontend/static/css/main.5fb059fb.css.map",
-    "main.04d7847c.js.map": "/Tattoo-Parlor---Frontend/static/js/main.04d7847c.js.map"
+    "main.02b7e7d6.css.map": "/Tattoo-Parlor---Frontend/static/css/main.02b7e7d6.css.map",
+    "main.857be17d.js.map": "/Tattoo-Parlor---Frontend/static/js/main.857be17d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fb059fb.css",
-    "static/js/main.04d7847c.js"
+    "static/css/main.02b7e7d6.css",
+    "static/js/main.857be17d.js"
   ]
 }

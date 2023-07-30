@@ -46,10 +46,10 @@ const Header = () => {
 
                             <ul className="dropdown-content about-dropdown">
                                 <li><Link className="dropdown-items" to="/FAQ">Aftercare FAQ's</Link></li>
-                                <li><Link className="dropdown-items" to="/about">Our Shop</Link></li>
+                                <li><Link className="dropdown-items" to="/Our-Work">Our Shop</Link></li>
                                 <li>
                                     <Link className="dropdown-items" target="_blank" to="/PDFs/ConsentForm.pdf">
-                                    {/*TODO: Add SVG for consent form in header*/}
+                                    {/* TODO: Add SVG for consent form in header */}
                                     Client Forms
                                     </Link>
                                 </li>
