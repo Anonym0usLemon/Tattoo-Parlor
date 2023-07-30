@@ -6,8 +6,8 @@ const Home = () => {
         <>
             <section className="schedule-apt padding-inline">
                 <video className="background-video" autoplay="" muted="" loop="">
-                    <source src="./Tattoo-Parlor---Frontend/Video/TattooBanner.mp4" type="video/mp4"/>
-                    <source src="./Tattoo-Parlor---Frontend/Video/TattooBanner.webm" type="video/webm"/>
+                    <source src={process.env.PUBLIC_URL + "/Video/TattooBanner.mp4"} type="video/mp4"/>
+                    <source src={process.env.PUBLIC_URL + "/Video/TattooBanner.webm"} type="video/webm"/>
                 </video>
 
                 <div className="paper-gradient"></div>
@@ -25,9 +25,9 @@ const Home = () => {
                     <p>
 
                         <a class="schedule-apt-button" href="/create"> 
-                            <img class="apt-button-left" src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-left-btn.png" border="0" alt="" /> 
+                            <img class="apt-button-left" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-left-btn.png"} border="0" alt="" /> 
                             SCHEDULE APPOINTMENT 
-                            <img class="apt-button-right" src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-right-btn.png" border="0" alt="" /> 
+                            <img class="apt-button-right" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-right-btn.png"} border="0" alt="" /> 
                         </a>
                     </p>
                 </div>
