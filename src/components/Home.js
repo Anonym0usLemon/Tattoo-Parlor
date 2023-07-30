@@ -24,7 +24,7 @@ const Home = () => {
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
                     <p>
 
-                        <a class="schedule-apt-button" href="/Contact"> 
+                        <a class="schedule-apt-button" href="/create"> 
                             <img class="apt-button-left" src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-left-btn.png" border="0" alt="" /> 
                             SCHEDULE APPOINTMENT 
                             <img class="apt-button-right" src="./Tattoo-Parlor---Frontend/images/Home/schedule-apt-right-btn.png" border="0" alt="" /> 
@@ -99,7 +99,7 @@ const Home = () => {
                 <h2>OUR WORK</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 <p className="our-work-p2">abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi.</p>
-                <p><Link className="blk-home-button" to="/gallery">VIEW GALLERY</Link></p></div>
+                <p><Link className="blk-home-button" to="/Our-Work">VIEW GALLERY</Link></p></div>
 
                 <div className="our-work-gallery">
                     <div className="gallery-images">

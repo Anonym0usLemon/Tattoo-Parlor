@@ -34,7 +34,7 @@ const Footer = () => {
                     <div className="mobile-info">
                         <Link className="footer-large-text" to="/About">ABOUT</Link>
                         <Link className="footer-small-text" to="/FAQ">Aftercare FAQ'S</Link>
-                        <Link className="footer-small-text" to="/gallery">Our Shop</Link>
+                        <Link className="footer-small-text" to="/Our-Work">Our Shop</Link>
                         <Link className="footer-small-text" to="/Content/PDFs/ConsentForm.pdf">Client Forms</Link>
                         <Link className="footer-large-text" to="/OurWork">OUR WORK</Link>
                         <Link className="footer-large-text" to="/contact">CONTACT US</Link>
@@ -53,7 +53,7 @@ const Footer = () => {
                     <div class="desktop-about">
                         <Link class="footer-large-text" to="/about">ABOUT</Link>
                         <Link class="footer-small-text" to="/FAQ">Aftercare FAQ'S</Link>
-                        <Link class="footer-small-text" to="/gallery">Our Shop</Link>
+                        <Link class="footer-small-text" to="/Our-Work">Our Shop</Link>
                         <Link class="footer-small-text" target="_blank" to="/Content/PDFs/ConsentForm.pdf">Client Forms</Link>
                     </div>
 
