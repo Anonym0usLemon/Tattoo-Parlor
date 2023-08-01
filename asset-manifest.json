@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tattoo-Parlor---Frontend/static/css/main.c29ada4e.css",
-    "main.js": "/Tattoo-Parlor---Frontend/static/js/main.78979d23.js",
+    "main.js": "/Tattoo-Parlor---Frontend/static/js/main.6b3077f4.js",
     "static/media/jewelry-background-desktop.jpg": "/Tattoo-Parlor---Frontend/static/media/jewelry-background-desktop.18bed551112c83f5ccb2.jpg",
     "static/media/tattoo-removal-desktop.jpg": "/Tattoo-Parlor---Frontend/static/media/tattoo-removal-desktop.51ed37d1ad25664b3375.jpg",
     "static/media/Oswald-SemiBold.svg": "/Tattoo-Parlor---Frontend/static/media/Oswald-SemiBold.2c11f19149eecc82bc5c.svg",
@@ -22,10 +22,10 @@
     "static/media/merriweather-regular.woff2": "/Tattoo-Parlor---Frontend/static/media/merriweather-regular.cf3b0c8fd0dd4845e0d6.woff2",
     "index.html": "/Tattoo-Parlor---Frontend/index.html",
     "main.c29ada4e.css.map": "/Tattoo-Parlor---Frontend/static/css/main.c29ada4e.css.map",
-    "main.78979d23.js.map": "/Tattoo-Parlor---Frontend/static/js/main.78979d23.js.map"
+    "main.6b3077f4.js.map": "/Tattoo-Parlor---Frontend/static/js/main.6b3077f4.js.map"
   },
   "entrypoints": [
     "static/css/main.c29ada4e.css",
-    "static/js/main.78979d23.js"
+    "static/js/main.6b3077f4.js"
   ]
 }
