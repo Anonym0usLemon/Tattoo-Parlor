@@ -24,11 +24,11 @@ const Home = () => {
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
                     <p>
 
-                        <a class="schedule-apt-button" href="/create"> 
-                            <img class="apt-button-left" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-left-btn.png"} border="0" alt="" /> 
-                            SCHEDULE APPOINTMENT 
-                            <img class="apt-button-right" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-right-btn.png"} border="0" alt="" /> 
-                        </a>
+                        <Link className="schedule-apt-button" to="/create"> 
+                            <img className="apt-button-left" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-left-btn.png"} border="0" alt="" /> 
+                            SCHEDULE APPOINTMENT
+                            <img className="apt-button-right" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-right-btn.png"} border="0" alt="" /> 
+                        </Link>
                     </p>
                 </div>
             </section>
