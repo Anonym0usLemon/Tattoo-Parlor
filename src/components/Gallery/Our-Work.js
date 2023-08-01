@@ -32,7 +32,7 @@ const OurWork = () => {
                             dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
                             aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.ut.
                         </p>
-                        <Link className="schedule-apt-button">
+                        <Link className="schedule-apt-button" to="/create">
                             <img src="./Tattoo-Parlor---Frontend/images/Gallery/btn-left.png" alt=""/>
                             Schedule Appointment
                             <img src="./Tattoo-Parlor---Frontend/images/Gallery/btn-right.png" alt=""/>
