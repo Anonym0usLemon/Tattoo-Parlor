@@ -1,6 +1,9 @@
 import React from 'react'; 
 import { Link } from 'react-router-dom';
 
+// import components
+import ScheduleAppointmentButton from './Buttons/ScheduleAppointmentButton';
+
 const Home = () => {
     return (
         <>
@@ -23,12 +26,7 @@ const Home = () => {
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
                     <p>
-
-                        <Link className="schedule-apt-button" to="/create"> 
-                            <img className="apt-button-left" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-left-btn.png"} border="0" alt="" /> 
-                            SCHEDULE APPOINTMENT
-                            <img className="apt-button-right" src={process.env.PUBLIC_URL + "/images/Home/schedule-apt-right-btn.png"} border="0" alt="" /> 
-                        </Link>
+                        <ScheduleAppointmentButton/>
                     </p>
                 </div>
             </section>

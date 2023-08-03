@@ -1,5 +1,8 @@
 import { Link } from 'react-router-dom';
 
+// import components
+import ScheduleAppointmentButton from './Buttons/ScheduleAppointmentButton';
+
 const TattooRemoval = () => {
     return (
         <section className="removal-page-section">
@@ -24,11 +27,7 @@ const TattooRemoval = () => {
                         aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.ut.
                     </p>
 
-                    <Link className="schedule-apt-btn" to="/create">
-                        <img src="./Tattoo-Parlor---Frontend/images/TattooRemoval/schedule-apt-left-btn.png" alt=""/>
-                        SCHEDULE AN APPOINTMENT
-                        <img src="./Tattoo-Parlor---Frontend/images/TattooRemoval/schedule-apt-right-btn.png" alt=""/>
-                    </Link>
+                    <ScheduleAppointmentButton/>
                 </div>
 
                 <img className="removal-pic" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/removal-pic.jpg" alt=""/>

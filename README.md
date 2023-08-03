@@ -13,6 +13,10 @@ This is a fully featured website with 16 pages. Designed by iNET Web and develop
 + Node.js
 + SCSS
 
+## Developer Notes: 
+
+All stylesheets are "page specific" and are imported into App.scss. App.scss is then imported into App.js. This is to avoid multiple stylesheet import statements across different components and to keep everything cleaner and more maintainable. 
+
 ## Getting Started
 
 In the project directory, you can run:

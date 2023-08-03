@@ -96,44 +96,6 @@ $Text-Color: white;
                 font-size: 14px;
             }
         }
-
-        //Schedule apt button
-        a {
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 5px;
-            height: 54px;
-            width: 356px;
-            margin-top: 20px;
-            text-align: center;
-            font-family: $Oswald;
-            color: white;
-            text-decoration: none;
-            background-color: $Orange;  
-            transition: all 0.25s ease-in-out;
-
-            @media only screen and (max-width: 1300px) {
-                margin-top: 40px;;
-            }
-
-            @media only screen and (max-width: 740px) {
-                margin: auto;
-            }
-
-            @media only screen and (max-width: 550px) {
-                width: 280px;
-            }
-        }
-
-        a:hover {
-            background-color: white;
-
-            span {
-                color: black !important;
-            }
-        }
     }
 
     .removal-pic {

@@ -1,5 +1,8 @@
 import { Link } from 'react-router-dom';
 
+//import components
+import ScheduleAppointmentButton from '../Buttons/ScheduleAppointmentButton';
+
 const OurWork = () => {
     return (
         <>
@@ -32,11 +35,7 @@ const OurWork = () => {
                             dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
                             aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.ut.
                         </p>
-                        <Link className="schedule-apt-button" to="/create">
-                            <img src="./Tattoo-Parlor---Frontend/images/Gallery/btn-left.png" alt=""/>
-                            Schedule Appointment
-                            <img src="./Tattoo-Parlor---Frontend/images/Gallery/btn-right.png" alt=""/>
-                        </Link>
+                        <ScheduleAppointmentButton/>
                     </div>
                 </div>
             </section>        
