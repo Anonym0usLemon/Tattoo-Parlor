@@ -7,26 +7,26 @@ const FAQ = () => {
         <section className="faq-page">
 
         <div className="secondary-banner">
-            <img src="./Tattoo-Parlor---Frontend/images/FAQs/background.jpg" alt=""/>
+            <img src="./Tattoo-Parlor/images/FAQs/background.jpg" alt=""/>
             <div className="paper-gradient"></div>
         </div>
 
         <div className="faq-section padding-inline">
             <picture>
-                <source media="(max-width: 500px)" srcset="./Tattoo-Parlor---Frontend/images/Piercings/mobile.png"/>
-                <img  className="faq-section1-background" src="./Tattoo-Parlor---Frontend/images/Piercings/piercings-price-background.png" alt=""/>
+                <source media="(max-width: 500px)" srcset="./Tattoo-Parlor/images/Piercings/mobile.png"/>
+                <img  className="faq-section1-background" src="./Tattoo-Parlor/images/Piercings/piercings-price-background.png" alt=""/>
             </picture>
 
             <h1 className="faq-title">FREQUENTLY ASKED<br/>
                 <span>
-                    <img src="./Tattoo-Parlor---Frontend/images/FAQs/title-left.png" alt=""/>
+                    <img src="./Tattoo-Parlor/images/FAQs/title-left.png" alt=""/>
                     QUESTIONS
-                    <img src="./Tattoo-Parlor---Frontend/images/FAQs/title-right.png" alt=""/>
+                    <img src="./Tattoo-Parlor/images/FAQs/title-right.png" alt=""/>
                 </span>
             </h1>
 
-            <img className="faq-flower" src="./Tattoo-Parlor---Frontend/images/FAQs/flower.png" alt=""/>
-            <img className="faq-bird" src="./Tattoo-Parlor---Frontend/images/FAQs/bird.png" alt=""/>
+            <img className="faq-flower" src="./Tattoo-Parlor/images/FAQs/flower.png" alt=""/>
+            <img className="faq-bird" src="./Tattoo-Parlor/images/FAQs/bird.png" alt=""/>
 
             <ul className="faq-list FAQList">
                 <FAQitem question={"I haven't heard from my artist since I booked...should I still show up?"} answer={"Et possimus autem sed beatae voluptatem et temporibus commodi aut fugit similique. Aut quia nihil et velit commodi aut sint nostrum quo dignissimos praesentium et ullam harum hic molestiae possimus. Nam voluptatem modi et autem laborum aut laudantium molestias ea nihil cumque?"} /> 

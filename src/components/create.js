@@ -48,7 +48,7 @@ export default function Create() {
         <section className="contact-page">
           
           <div className="secondary-banner">
-            <img src="./Tattoo-Parlor---Frontend/images/Contact/background.jpg" alt="" /> 
+            <img src="./Tattoo-Parlor/images/Contact/background.jpg" alt="" /> 
             <div className="paper-gradient"></div>
           </div>
 
@@ -56,7 +56,7 @@ export default function Create() {
 
             <div className="contact-form-section">
               <picture>
-                <img className="contact-section1-background" src="./Tattoo-Parlor---Frontend/images/Contact/desktop-section.png" />
+                <img className="contact-section1-background" src="./Tattoo-Parlor/images/Contact/desktop-section.png" />
               </picture>
 
               <div className="contact-form padding-inline">
@@ -104,9 +104,9 @@ export default function Create() {
 
                   <div class="button-container">
                     <button class="submit schedule-apt-button" type="submit">
-                      <img src="./Tattoo-Parlor---Frontend/images/Contact/btn-left.png" alt=""/> 
+                      <img src="./Tattoo-Parlor/images/Contact/btn-left.png" alt=""/> 
                       Send 
-                      <img src="./Tattoo-Parlor---Frontend/images/Contact/btn-right.png" alt=""/>
+                      <img src="./Tattoo-Parlor/images/Contact/btn-right.png" alt=""/>
                     </button>
                   </div>
 
@@ -120,7 +120,7 @@ export default function Create() {
                 <a class="address" href="https://goo.gl/maps/NdhzhcsqTSQry8QT8" target="_blank">1430 E Moreland Blvd, Waukesha, WI</a>
                 <div class="phone-number">
                   <div className="desktop-phone">
-                    <img src="./Tattoo-Parlor---Frontend/images/Home/phone-icon.png" alt="" border="0"/>
+                    <img src="./Tattoo-Parlor/images/Home/phone-icon.png" alt="" border="0"/>
                   </div>
                     <p class="phone-number">262.574.9400</p>
                 </div>

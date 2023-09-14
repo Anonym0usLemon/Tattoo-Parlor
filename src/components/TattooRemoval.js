@@ -6,7 +6,7 @@ import ScheduleAppointmentButton from './Buttons/ScheduleAppointmentButton';
 const TattooRemoval = () => {
     return (
         <section className="removal-page-section">
-            <img className="removal-background" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/header-background.jpg" alt=""/>
+            <img className="removal-background" src="./Tattoo-Parlor/images/TattooRemoval/header-background.jpg" alt=""/>
 
 
             <div className="removal-main-content">
@@ -30,17 +30,17 @@ const TattooRemoval = () => {
                     <ScheduleAppointmentButton/>
                 </div>
 
-                <img className="removal-pic" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/removal-pic.jpg" alt=""/>
+                <img className="removal-pic" src="./Tattoo-Parlor/images/TattooRemoval/removal-pic.jpg" alt=""/>
 
                 <div className="mobile-removal">
-                    <img className="removal-before" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/before-removal-pic.jpg" alt=""/>
-                    <img className="removal-after" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/after-removal-pic.jpg" alt=""/>
+                    <img className="removal-before" src="./Tattoo-Parlor/images/TattooRemoval/before-removal-pic.jpg" alt=""/>
+                    <img className="removal-after" src="./Tattoo-Parlor/images/TattooRemoval/after-removal-pic.jpg" alt=""/>
                 </div>
             </div>
 
             <div className="removal-section2">
 
-                <img className="paper-background" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/section2-background.png" alt="" />
+                <img className="paper-background" src="./Tattoo-Parlor/images/TattooRemoval/section2-background.png" alt="" />
 
                 <div className="rem-section2-text padding-inline">
                     <h2>OUR TECHNOLOGY</h2>
@@ -62,7 +62,7 @@ const TattooRemoval = () => {
                     </p>
                 </div>
 
-                <img className="laser" src="./Tattoo-Parlor---Frontend/images/TattooRemoval/laser.png" alt=""/>
+                <img className="laser" src="./Tattoo-Parlor/images/TattooRemoval/laser.png" alt=""/>
             </div>
 
             <div className="removal-section3">

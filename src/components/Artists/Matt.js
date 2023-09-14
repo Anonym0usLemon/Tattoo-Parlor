@@ -8,13 +8,13 @@ const Matt = () => {
     return (
         <>
             <div className="secondary-banner">	
-                <img className="about-background" src="./Tattoo-Parlor---Frontend/images/Piercings/piercings-background.jpg" alt=""/>
+                <img className="about-background" src="./Tattoo-Parlor/images/Piercings/piercings-background.jpg" alt=""/>
             </div>
 
             <section className='Bio padding-inline'>
             <Link className="mobile-crumb" to="/TattooArtists"> &lt; Back to Artists</Link>
 
-                <img className='artist-image' src="./Tattoo-Parlor---Frontend/images/TattooArtists/Matt.jpg" alt=""/>
+                <img className='artist-image' src="./Tattoo-Parlor/images/TattooArtists/Matt.jpg" alt=""/>
 
                 <div className='text'>
                     <Link className="desktop-crumb" to="/TattooArtists"> &lt; Back to Artists</Link>

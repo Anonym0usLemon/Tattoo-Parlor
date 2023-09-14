@@ -6,7 +6,7 @@ const Footer = () => {
 
             <div className="footer-container">
                 <div className="logo-container">
-                    <Link className="footer-logo-link" to="/Tattoo-Parlor---Frontend">
+                    <Link className="footer-logo-link" to="/Tattoo-Parlor">
                         <img className="footer-logo" src={process.env.PUBLIC_URL + "/images/Footer/footer-logo.png"} alt=""/>
                     </Link>
 
@@ -35,7 +35,7 @@ const Footer = () => {
                         <Link className="footer-large-text" to="/About">ABOUT</Link>
                         <Link className="footer-small-text" to="/FAQ">Aftercare FAQ'S</Link>
                         <Link className="footer-small-text" to="/Our-Work">Our Shop</Link>
-                        <Link className="footer-small-text" to="">Client Forms</Link>
+                        <Link className="footer-small-text" to="/Tattoo-Parlor">Client Forms</Link>
                         <Link className="footer-large-text" to="/OurWork">OUR WORK</Link>
                         <Link className="footer-large-text" to="/contact">CONTACT US</Link>
                     </div>
@@ -54,7 +54,7 @@ const Footer = () => {
                         <Link class="footer-large-text" to="/about">ABOUT</Link>
                         <Link class="footer-small-text" to="/FAQ">Aftercare FAQ'S</Link>
                         <Link class="footer-small-text" to="/OurWork">Our Shop</Link>
-                        <Link class="footer-small-text" target="_blank" to="">Client Forms</Link>
+                        <Link class="footer-small-text" to="/Tattoo-Parlor">Client Forms</Link>
                     </div>
 
                     <div class="desktop-other">

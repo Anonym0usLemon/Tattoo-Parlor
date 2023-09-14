@@ -48,7 +48,7 @@ const Header = () => {
                                 <li><Link className="dropdown-items" to="/FAQ">Aftercare FAQ's</Link></li>
                                 <li><Link className="dropdown-items" to="/OurWork">Our Shop</Link></li>
                                 <li>
-                                    <Link className="dropdown-items" target="_blank" to="">
+                                    <Link className="dropdown-items" to="/Tattoo-Parlor">
                                     {/* TODO: Add SVG for consent form in header */}
                                     Client Forms
                                     </Link>

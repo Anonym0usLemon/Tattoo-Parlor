@@ -7,7 +7,7 @@ const OurWork = () => {
     return (
         <>
             <div className="secondary-banner">	
-                <img className="about-background" src="./Tattoo-Parlor---Frontend/images/Gallery/background.jpg" alt=""/>
+                <img className="about-background" src="./Tattoo-Parlor/images/Gallery/background.jpg" alt=""/>
             </div>
 
             <section className="gallery-page">
@@ -16,14 +16,14 @@ const OurWork = () => {
                 </div>
 
                 <div className="gallery">
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery1.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery2.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery3.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery4.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery5.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery6.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery7.jpg" alt=""/> 
-                    <img src="./Tattoo-Parlor---Frontend/images/Gallery/gallery8.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery1.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery2.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery3.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery4.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery5.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery6.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery7.jpg" alt=""/> 
+                    <img src="./Tattoo-Parlor/images/Gallery/gallery8.jpg" alt=""/> 
                 </div>
 
                 <div className="contact-section">
