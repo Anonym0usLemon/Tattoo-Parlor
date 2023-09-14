@@ -1,6 +1,6 @@
 # Tattoo Parlor Website
 
-This is a fully featured website with 16 pages. I was given a photoshop mockup and was tasked with coding it from scratch. It was my first project that I completed within my first 30 days at iNET and I used the .NET framework originally. But later redid the project in React. 
+A fully featured website for a tattoo parlor with 16 pages. Responsive between 350px and 2000px
 
 ### Hosted Here: https://anonym0uslemon.github.io/Tattoo-Parlor---Frontend/
 
@@ -8,9 +8,6 @@ This is a fully featured website with 16 pages. I was given a photoshop mockup a
 ## Technologies Used
 
 + React.js
-+ Mongodb
-+ Express
-+ Node.js
 + SCSS
 
 ## Developer Notes: 
