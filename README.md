@@ -9,4 +9,6 @@ A fully featured website for a tattoo parlor with 16 pages. Responsive between 3
 + React.js
 + SCSS
 
+## Future Ideas
+refactor code into components. 
 
